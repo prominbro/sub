@@ -1,6 +1,6 @@
 #profile-update-interval: 1
-#profile-title: kfwlrus sub. BL - BlackList использовать можно где угодно, WL - WhiteList использовать ТОЛЬКО при БЕЛЫХ СПИСКАХ на моб сети
-#announce: тг: @kfwlrus
+#profile-title: kfwlrus sub. 
+#announce: тг: @kfwlrus. BL - BlackList использовать можно где угодно, WL - WhiteList использовать ТОЛЬКО при БЕЛЫХ СПИСКАХ на моб сети
 vless://0@0:443?security=none&encryption=0&headerType=none&type=tcp#BlackList👇
 vless://3841f022-c6d2-4e7d-b595-a78aa3d574dc@217.179.48.99:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=OVmPxkoWmuVyPD1fEuyxwtJcZ4uGwKz_uDhg7SW3520&sid=a071675310&packetEncoding=xudp#0001%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20BL%20%7C%20Premium%20TG%3A%20%40kfwlrus
 vless://3841f022-c6d2-4e7d-b595-a78aa3d574dc@93.123.39.229:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=OVmPxkoWmuVyPD1fEuyxwtJcZ4uGwKz_uDhg7SW3520&sid=a071675310&packetEncoding=xudp#0002%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%7C%20BL%20%7C%20Premium%20TG%3A%20%40kfwlrus
