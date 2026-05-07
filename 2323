@@ -56,13 +56,13 @@
       "settings" : {
         "vnext" : [
           {
-            "address" : "most-by.harknmav.fun",
-            "port" : 443,
+            "address" : "62.152.56.149",
+            "port" : 5443,
             "users" : [
               {
                 "encryption" : "none",
                 "flow" : "xtls-rprx-vision",
-                "id" : "eb4ccb47-a425-4475-b727-f9287676835e"
+                "id" : "dcfc3b18-febc-4957-bacf-d6c854de89a8"
               }
             ]
           }
@@ -72,9 +72,8 @@
         "network" : "tcp",
         "realitySettings" : {
           "fingerprint" : "chrome",
-          "publicKey" : "g3E2YYA0b8upu_-XVyYTYH1NnHElk6o273YQtJ0hhAo",
-          "serverName" : "bcs.ru",
-          "shortId" : "746655b57cc78a17"
+          "publicKey" : "LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ",
+          "serverName" : "max.ru"
         },
         "security" : "reality",
         "tcpSettings" : {
@@ -92,67 +91,18 @@
       "tag" : "block"
     }
   ],
-  "remarks" : " 🇧🇾 LTE | Беларусь | µTorrent",
+  "remarks" : "🇪🇺 BOOST Авто-Балансер (Белые списки)",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
     "rules" : [
       {
-        "domain" : [
-          "keyword:vk",
-          "keyword:ok.ru",
-          "keyword:odnoklassniki",
-          "keyword:odkl.ru",
-          "keyword:okcdn.ru",
-          "keyword:mail.ru",
-          "keyword:imgsmail",
-          "keyword:mycdn.me",
-          "keyword:gosuslugi",
-          "keyword:gu-st.ru",
-          "keyword:nalog",
-          "keyword:mos.ru",
-          "keyword:ozon",
-          "keyword:wildberries",
-          "keyword:wb",
-          "keyword:avito",
-          "keyword:kinopoisk",
-          "keyword:kpcdn",
-          "keyword:dzen",
-          "keyword:rutube",
-          "keyword:okko",
-          "keyword:hh",
-          "keyword:2gis",
-          "keyword:mts",
-          "keyword:megafon",
-          "keyword:beeline",
-          "keyword:tele2",
-          "keyword:t2",
-          "keyword:magnit",
-          "keyword:5ka",
-          "keyword:perekrestok",
-          "keyword:alfabank",
-          "keyword:alfa-bank",
-          "keyword:alfaonline",
-          "keyword:vtb",
-          "keyword:ivi",
-          "keyword:kion",
-          "keyword:vkusvill",
-          "keyword:auchan",
-          "keyword:metro",
-          "keyword:samokat",
-          "keyword:kuper",
-          "keyword:megamarket",
-          "keyword:detmir",
-          "keyword:vkusnoitochka",
-          "keyword:burgerking",
-          "keyword:gazprom",
-          "keyword:cbr",
-          "keyword:nspk",
-          "keyword:rzd",
-          "keyword:aeroflot",
-          "keyword:pobeda",
-          "keyword:rustore",
-          "keyword:tutu",
-          "keyword:cdek",
-          "keyword:goskey",
-          "keyword:psbank",
+        "outboundTag" : "direct",
+        "protocol" : [
+          "bittorrent"
+        ],
+        "type" : "field"
+      }
+    ]
+  }
+}
