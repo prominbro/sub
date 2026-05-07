@@ -1,0 +1,158 @@
+{
+  "dns" : {
+    "queryStrategy" : "UseIP",
+    "servers" : [
+      "1.1.1.1",
+      "1.0.0.1"
+    ]
+  },
+  "inbounds" : [
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10808,
+      "protocol" : "socks",
+      "settings" : {
+        "auth" : "noauth",
+        "udp" : true
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "socks"
+    },
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10809,
+      "protocol" : "http",
+      "settings" : {
+        "allowTransparent" : false
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "http"
+    }
+  ],
+  "log" : {
+    "access" : "\/private\/var\/mobile\/Containers\/Shared\/AppGroup\/06BC733E-E9F0-41B4-91E9-BD6585E80009\/Library\/Application Support\/Xray\/logs\/access.log",
+    "dnsLog" : true,
+    "loglevel" : "Warning"
+  },
+  "outbounds" : [
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "most-by.harknmav.fun",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "eb4ccb47-a425-4475-b727-f9287676835e"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "chrome",
+          "publicKey" : "g3E2YYA0b8upu_-XVyYTYH1NnHElk6o273YQtJ0hhAo",
+          "serverName" : "bcs.ru",
+          "shortId" : "746655b57cc78a17"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy"
+    },
+    {
+      "protocol" : "freedom",
+      "tag" : "direct"
+    },
+    {
+      "protocol" : "blackhole",
+      "tag" : "block"
+    }
+  ],
+  "remarks" : " 🇧🇾 LTE | Беларусь | µTorrent",
+  "routing" : {
+    "domainMatcher" : "hybrid",
+    "domainStrategy" : "IPIfNonMatch",
+    "rules" : [
+      {
+        "domain" : [
+          "keyword:vk",
+          "keyword:ok.ru",
+          "keyword:odnoklassniki",
+          "keyword:odkl.ru",
+          "keyword:okcdn.ru",
+          "keyword:mail.ru",
+          "keyword:imgsmail",
+          "keyword:mycdn.me",
+          "keyword:gosuslugi",
+          "keyword:gu-st.ru",
+          "keyword:nalog",
+          "keyword:mos.ru",
+          "keyword:ozon",
+          "keyword:wildberries",
+          "keyword:wb",
+          "keyword:avito",
+          "keyword:kinopoisk",
+          "keyword:kpcdn",
+          "keyword:dzen",
+          "keyword:rutube",
+          "keyword:okko",
+          "keyword:hh",
+          "keyword:2gis",
+          "keyword:mts",
+          "keyword:megafon",
+          "keyword:beeline",
+          "keyword:tele2",
+          "keyword:t2",
+          "keyword:magnit",
+          "keyword:5ka",
+          "keyword:perekrestok",
+          "keyword:alfabank",
+          "keyword:alfa-bank",
+          "keyword:alfaonline",
+          "keyword:vtb",
+          "keyword:ivi",
+          "keyword:kion",
+          "keyword:vkusvill",
+          "keyword:auchan",
+          "keyword:metro",
+          "keyword:samokat",
+          "keyword:kuper",
+          "keyword:megamarket",
+          "keyword:detmir",
+          "keyword:vkusnoitochka",
+          "keyword:burgerking",
+          "keyword:gazprom",
+          "keyword:cbr",
+          "keyword:nspk",
+          "keyword:rzd",
+          "keyword:aeroflot",
+          "keyword:pobeda",
+          "keyword:rustore",
+          "keyword:tutu",
+          "keyword:cdek",
+          "keyword:goskey",
+          "keyword:psbank",
