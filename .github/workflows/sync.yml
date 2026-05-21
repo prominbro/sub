@@ -1,0 +1,13 @@
+name: Push to GitVerse
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Push to GitVerse
+        run: |
+          git remote add gitverse https://oauth2:${{ secrets.GITVERSE_TOKEN }}@gitverse.ru/kfwlru/sub.git
+          git push gitverse main
