@@ -1,4 +1,4 @@
-#profile-update-interval: 1
+#profile-update-interval: 2
 #profile-title: Kfwl sub 🫆
 #announce: тг: @kfwlrus | wLTE - от белых списков. Обычные сервера для черных списков 😎
 vless://f1fe0a04-028f-4d80-ae1d-bc158821cccf@77.110.105.45:54443?encryption=none&security=tls&sni=max.ru&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
