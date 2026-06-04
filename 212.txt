@@ -1,4 +1,4 @@
-#profile-update-interval: 2
+#profile-update-interval: 1
 #profile-title: Kfwl sub 🫆
 #announce: тг: @kfwlrus | 💫 Универсал, 🔥 Все кроме 1 оператора <- Белые списки Обычные сервера для черных списков 😎
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@dnb.herumhas.shop:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=dnb.herumhas.shop&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE-%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%20%28WI-FI%20Bridge%29
