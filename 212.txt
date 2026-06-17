@@ -1,47 +1,5618 @@
-#profile-update-interval: 1
-#profile-title: Kfwl sub 🫆
-#announce: тг: @kfwlrus | 💫 Универсал, 🔥 Все кроме 1 оператора <- Белые списки Обычные сервера для черных списков 😎
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rezerv.yunus.guru&fp=firefox&pbk=S4WFc-SD_FpmmQdM21Of7O6XmYaLlmwcmlbgO4lZQQg&sid=a7ec6c3316eddb11&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv3.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rezerv3.yunus.guru&fp=firefox&pbk=Aiyev_-czR8WG7l15BQDsHL7VwJVQe3W7SEfxbRk0W4&sid=b28896ec1669a951&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv4.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rezerv4.yunus.guru&fp=firefox&pbk=wdUdFTq0BP7xFnAWNbfdAFeieIOuExZ3HUctSiChCzU&sid=e80a3158be637ee1&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%202
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv5.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rezerv5.yunus.guru&fp=firefox&pbk=E56UL8pvnV6FNSPmv_Q9AZnSgHZpjOm-jrLyOEKwO0Q&sid=399a4569c48e12e6&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%203
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv6.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rezerv6.yunus.guru&fp=firefox&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%204
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv1.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rezerv1.yunus.guru&fp=firefox&pbk=-X9CZv5MYKivpxPVP1vdgFKf2AJWmZ0Pju-j8LFmlh4&sid=6c88854e73e86773&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A2%D0%B5%D1%81%D1%82%201
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@spb2.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%20%E2%9A%A1%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C%20%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@spb2.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9A%A1%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@nl2.lunetpn.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@nl2.lunetpn.ru:8444?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=xhttp&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@swi1.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%20%F0%9F%87%A8%F0%9F%87%AD%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@swi1.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A8%F0%9F%87%AD%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@gr3.lunetpn.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%8E%AE%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@gr3.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@gr2.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@fl2.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@fl2.lunetpn.ru:8444?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=xhttp&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@sw1.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@sw1.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@tr1.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B9%F0%9F%87%B7%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@tr1.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%B9%F0%9F%87%B7%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@jp1.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%AF%F0%9F%87%B5%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@jp1.lunetpn.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@ph1.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B5%F0%9F%87%AD%20%F0%9F%90%8C%20%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@ph1.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%B5%F0%9F%87%AD%20%F0%9F%90%8C%20%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@us1.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%8C%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@us1.lunetpn.ru:8444?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=xhttp&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%8C%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@sp1.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@sp1.lunetpn.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@pl2.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%8E%AE%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@pl2.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@uk1.lunetpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20%E2%9A%A1%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@uk1.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@it1.lunetpn.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20%F0%9F%8E%AE%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@it1.lunetpn.ru:8444?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=xhttp&path=%2F#%F0%9F%87%AE%F0%9F%87%B9%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@georgeorwell:1984?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%8F%B3%EF%B8%8F%D0%9F%D0%A0%D0%98%20%D0%91%D0%A1%3A
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@information.lunetpn.ru:4443?encryption=none&security=reality&sni=ya.ru&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc3&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%E2%80%A2%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%2F%D0%A1%20%231
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@information.lunetpn.ru:4433?encryption=none&security=reality&sni=ya.ru&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20LTE%20%E2%80%A2%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%2F%D0%A1%20%232
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@information.lunetpn.ru:8444?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=xhttp&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20LTE%20%E2%80%A2%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%2F%D0%A1%20%233
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@information.lunetpn.ru:4444?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc4&mode=gun#%F0%9F%87%AE%F0%9F%87%B9LTE%20%E2%80%A2%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%2F%D0%A1%20%234
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@information.lunetpn.ru:8443?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc5&mode=gun#%F0%9F%87%B9%F0%9F%87%B7LTE%20%E2%80%A2%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%2F%D0%A1%20%235
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@georgeorwell:1984?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B1%F0%9F%87%BB%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%20%D0%B4%D0%BB%D1%8F%20OpenWRT%20%D0%B2%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B5
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@gr-tor1.lunetpn.ru:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=grpc&authority=&serviceName=grpc2&mode=gun#%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D1%8B%20%7C%20%D0%A1%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%98%D0%B3%D1%80%20%231
-vless://8a342312-6359-4dcf-bd10-030b2a00ae4d@gr-tor1.lunetpn.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=L_N9qaFE0gwG5PwS4Pag8e6uwrsLxSlksX7CVvgQ5hA&sid=9c6f7a1b&type=tcp&headerType=none#%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D1%8B%20%7C%20%D0%A1%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%98%D0%B3%D1%80%20%232
+[
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "194.238.79.150.fwqfw783rg2dad.website",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "194.238.79.150.fwqfw783rg2dad.website"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s1.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s1.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s2.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s2.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 5"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s3.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 6"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s3.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 7"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s4.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 8"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s4.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 9"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s5.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 10"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s5.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 11"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.19.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.19.blanesik.space"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 12"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.29.fwqfw783rg2dad.website",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.29.fwqfw783rg2dad.website"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 13"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.27.tyr-agentstvo.tech",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.27.tyr-agentstvo.tech"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 14"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.28.speed-storage.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.28.speed-storage.ru"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 15"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.33.vhubtest.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.33.vhubtest.ru"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 16"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "94.183.221.225.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "94.183.221.225.blanesik.space"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 17"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "95.85.246.14.speed-storage.ru",
+                        "port": 573,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc/"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "95.85.246.14.speed-storage.ru"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 18"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "95.85.246.16.speed-storage.ru",
+                        "port": 573,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc/"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "95.85.246.16.speed-storage.ru"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 19"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "89.125.118.171.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "89.125.118.171.blanesik.space"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Самый быстрый ⚡️ 20"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇪🇺 AUTO — Самый быстрый ⚡️",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 1",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 2",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 3",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 4",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 5",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 6",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 7",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 8",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 9",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 10",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 11",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 12",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 13",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 14",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 15",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 16",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 17",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 18",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 19",
+                    "🇪🇺 AUTO — Самый быстрый ⚡️ 20"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "194.238.79.150.fwqfw783rg2dad.website",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "194.238.79.150.fwqfw783rg2dad.website"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s1.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s1.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s2.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s2.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 5"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s3.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 6"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s3.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 7"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s4.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 8"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s4.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 9"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s5.cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 10"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s5.avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Германия 11"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇩🇪 Германия",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇩🇪 Германия 1",
+                    "🇩🇪 Германия 2",
+                    "🇩🇪 Германия 3",
+                    "🇩🇪 Германия 4",
+                    "🇩🇪 Германия 5",
+                    "🇩🇪 Германия 6",
+                    "🇩🇪 Германия 7",
+                    "🇩🇪 Германия 8",
+                    "🇩🇪 Германия 9",
+                    "🇩🇪 Германия 10",
+                    "🇩🇪 Германия 11"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "95.85.246.14.speed-storage.ru",
+                        "port": 573,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc/"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "95.85.246.14.speed-storage.ru"
+                }
+            },
+            "tag": "🇵🇱 Польша [Игровой] 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "95.85.246.16.speed-storage.ru",
+                        "port": 573,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc/"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "95.85.246.16.speed-storage.ru"
+                }
+            },
+            "tag": "🇵🇱 Польша [Игровой] 2"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇵🇱 Польша [Игровой]",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇵🇱 Польша [Игровой] 1",
+                    "🇵🇱 Польша [Игровой] 2"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "rezerv3.yunus.guru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "a5ea9247-79f3-4655-aece-3fb51e1e669e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "Aiyev_-czR8WG7l15BQDsHL7VwJVQe3W7SEfxbRk0W4",
+                    "serverName": "rezerv3.yunus.guru",
+                    "shortId": "b28896ec1669a951",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇳🇱 Нидерланды"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "rezerv4.yunus.guru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "a5ea9247-79f3-4655-aece-3fb51e1e669e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "wdUdFTq0BP7xFnAWNbfdAFeieIOuExZ3HUctSiChCzU",
+                    "serverName": "rezerv4.yunus.guru",
+                    "shortId": "e80a3158be637ee1",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇳🇱 Нидерланды 2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "rezerv5.yunus.guru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "a5ea9247-79f3-4655-aece-3fb51e1e669e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "E56UL8pvnV6FNSPmv_Q9AZnSgHZpjOm-jrLyOEKwO0Q",
+                    "serverName": "rezerv5.yunus.guru",
+                    "shortId": "399a4569c48e12e6",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇳🇱 Нидерланды 3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "rezerv6.yunus.guru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "a5ea9247-79f3-4655-aece-3fb51e1e669e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE",
+                    "serverName": "rezerv6.yunus.guru",
+                    "shortId": "34256b39b4ebb864",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇳🇱 Нидерланды 4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "rezerv.yunus.guru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "a5ea9247-79f3-4655-aece-3fb51e1e669e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "S4WFc-SD_FpmmQdM21Of7O6XmYaLlmwcmlbgO4lZQQg",
+                    "serverName": "rezerv.yunus.guru",
+                    "shortId": "a7ec6c3316eddb11",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇳🇱 Самый Быстрый"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "rezerv1.yunus.guru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "a5ea9247-79f3-4655-aece-3fb51e1e669e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "-X9CZv5MYKivpxPVP1vdgFKf2AJWmZ0Pju-j8LFmlh4",
+                    "serverName": "rezerv1.yunus.guru",
+                    "shortId": "6c88854e73e86773",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇳🇱 Тест 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "94.183.221.225.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "94.183.221.225.blanesik.space"
+                }
+            },
+            "tag": "🇳🇱 Нидерланды #2"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇳🇱 Нидерланды",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇳🇱 Нидерланды",
+                    "🇳🇱 Нидерланды 2",
+                    "🇳🇱 Нидерланды 3",
+                    "🇳🇱 Нидерланды 4",
+                    "🇳🇱 Самый Быстрый",
+                    "🇳🇱 Тест 1",
+                    "🇳🇱 Нидерланды #2"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "94.156.155.81.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-5452-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "94.156.155.81.blanesik.space"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇹🇷 Турция [Оплата подписок]"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇹🇷 Турция [Оплата подписок]",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇹🇷 Турция [Оплата подписок]",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "194.238.79.170.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-4652-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "194.238.79.170.blanesik.space"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇫🇷 Франция"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇫🇷 Франция",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇫🇷 Франция",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "89.125.118.171.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "89.125.118.171.blanesik.space"
+                }
+            },
+            "tag": "🇫🇮 Финляндия"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇫🇮 Финляндия",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇫🇮 Финляндия",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "89.169.38.249.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "89.169.38.249.blanesik.space"
+                }
+            },
+            "tag": "🇷🇺 YouTube без рекламы"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇷🇺 YouTube без рекламы",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇷🇺 YouTube без рекламы",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "94.156.155.81.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-4b5a-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "94.156.155.81.blanesik.space"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇰🇿 Казахстан"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇰🇿 Казахстан",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇰🇿 Казахстан",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "94.156.155.81.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-554b-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "safari",
+                    "serverName": "94.156.155.81.blanesik.space"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇬🇧 Великобритания"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇬🇧 Великобритания",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇬🇧 Великобритания",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "94.156.155.81.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-5553-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "94.156.155.81.blanesik.space"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇺🇸 США"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇺🇸 США",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇺🇸 США",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "194.238.79.170.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-5345-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "194.238.79.170.blanesik.space"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇸🇪 Швеция"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇸🇪 Швеция",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇸🇪 Швеция",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.19.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.19.blanesik.space"
+                }
+            },
+            "tag": "🇱🇻 Латвия 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.29.fwqfw783rg2dad.website",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.29.fwqfw783rg2dad.website"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇱🇻 Латвия 2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.27.tyr-agentstvo.tech",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.27.tyr-agentstvo.tech"
+                }
+            },
+            "tag": "🇱🇻 Латвия 3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.28.speed-storage.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.28.speed-storage.ru"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇱🇻 Латвия 4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "213.21.222.33.vhubtest.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "213.21.222.33.vhubtest.ru"
+                }
+            },
+            "tag": "🇱🇻 Латвия 5"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇱🇻 Латвия",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇱🇻 Латвия 1",
+                    "🇱🇻 Латвия 2",
+                    "🇱🇻 Латвия 3",
+                    "🇱🇻 Латвия 4",
+                    "🇱🇻 Латвия 5"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "194.238.79.170.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-4a41-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "194.238.79.170.blanesik.space"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇯🇵 Япония"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇯🇵 Япония",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇯🇵 Япония",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "194.238.79.170.blanesik.space",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-4145-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "194.238.79.170.blanesik.space"
+                },
+                "wsSettings": {
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇦🇪 Дубай (ОАЭ)"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇦🇪 Дубай (ОАЭ)",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "🇦🇪 Дубай (ОАЭ)",
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "5.188.114.44",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc/"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "95.85.246.16.speed-storage.ru"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "84.201.166.160",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc/"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "95.85.246.14.speed-storage.ru"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s1.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s1.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s2.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 5"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s2.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 6"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s3.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 7"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s3.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 8"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s4.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 9"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s4.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 10"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s5.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 11"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s5.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 12"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "njivxdsw19.a.trbcdn.net",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "njivxdsw19.a.trbcdn.net"
+                },
+                "xhttpSettings": {
+                    "extra": {
+                        "headers": {
+                            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                            "accept-encoding": "gzip,+deflate,+br,+zstd",
+                            "accept-language": "en-US,en;q=0.9",
+                            "priority": "u=0,+i",
+                            "sec-ch-ua": "Not/A)Brand;v=99,+Chromium;v=148",
+                            "sec-ch-ua-arch": "x86",
+                            "sec-ch-ua-bitness": "64",
+                            "sec-ch-ua-full-version": "148.0.7778.167",
+                            "sec-ch-ua-full-version-list": "Not/A)Brand;v=99.0.0.0,+Chromium;v=148.0.7778.167",
+                            "sec-ch-ua-mobile": "?0",
+                            "sec-ch-ua-model": "",
+                            "sec-ch-ua-platform": "Linux",
+                            "sec-ch-ua-platform-version": "",
+                            "sec-fetch-dest": "document",
+                            "sec-fetch-mode": "navigate",
+                            "sec-fetch-site": "same-origin",
+                            "sec-fetch-user": "?1",
+                            "upgrade-insecure-requests": "1",
+                            "user-agent": "Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/148.0.0.0+Safari/537.36"
+                        },
+                        "noGRPCHeader": true,
+                        "seqKey": "X-Content-Id",
+                        "seqPlacement": "header",
+                        "sessionKey": "X-Session-Id",
+                        "sessionPlacement": "header",
+                        "uplinkHTTPMethod": "GET",
+                        "xPaddingHeader": "X-Api-Key",
+                        "xPaddingMethod": "tokenish",
+                        "xPaddingObfsMode": true,
+                        "xPaddingPlacement": "header",
+                        "xmux": {
+                            "cMaxLifetimeMs": 300000,
+                            "cMaxReuseTimes": 100,
+                            "maxConcurrency": "16-32",
+                            "maxConnections": 0
+                        }
+                    },
+                    "host": "njivxdsw19.a.trbcdn.net",
+                    "mode": "packet-up",
+                    "path": "/sequre/http/"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 13"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.72.103.3",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "ece5d20d-9e40-4bf9-b35d-b6bd2c9ea1b7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "serverName": "cdn.tracker.yandex.net"
+                },
+                "xhttpSettings": {
+                    "extra": {
+                        "noSSEHeader": false,
+                        "scMaxBufferedPosts": 30,
+                        "scMaxEachPostBytes": "1000000",
+                        "scStreamUpServerSecs": "20-80",
+                        "seqKey": "",
+                        "seqPlacement": "",
+                        "sessionKey": "",
+                        "sessionPlacement": "",
+                        "uplinkChunkSize": 0,
+                        "uplinkDataKey": "",
+                        "uplinkDataPlacement": "",
+                        "uplinkHTTPMethod": "GET",
+                        "xPaddingBytes": "0-0",
+                        "xPaddingHeader": "",
+                        "xPaddingKey": "",
+                        "xPaddingMethod": "",
+                        "xPaddingObfsMode": false,
+                        "xPaddingPlacement": ""
+                    },
+                    "host": "static171.kdjdjssjwiqwr.ru",
+                    "mode": "packet-up",
+                    "path": "/livestreamcontent/"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 14"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "nl01-cherry.online",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "ece5d20d-9e40-4bf9-b35d-b6bd2c9ea1b7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "0905b6e16602f326",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 15"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fr-gt-01.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "b0951d03-a838-4953-9d25-f906fbc4232b"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "ece180c605b5453c",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 16"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fr-gt-01.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "b0951d03-a838-4953-9d25-f906fbc4232b"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "ece180c605b5453c",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 17"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "pl-dp-01.online",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "1c4d05ef-8421-46a1-a6f3-e77f0ea45e41"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "50e09046c0c00159",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 18"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fi-m247-02.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "d9903876-7627-486b-813f-aeb6737725b4"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "6ecdb111a4e57f94",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 19"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.72.103.3",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "ece5d20d-9e40-4bf9-b35d-b6bd2c9ea1b7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "serverName": "cdn.tracker.yandex.net"
+                },
+                "xhttpSettings": {
+                    "extra": {
+                        "noSSEHeader": false,
+                        "scMaxBufferedPosts": 30,
+                        "scMaxEachPostBytes": "1000000",
+                        "scStreamUpServerSecs": "20-80",
+                        "seqKey": "",
+                        "seqPlacement": "",
+                        "sessionKey": "",
+                        "sessionPlacement": "",
+                        "uplinkChunkSize": 0,
+                        "uplinkDataKey": "",
+                        "uplinkDataPlacement": "",
+                        "uplinkHTTPMethod": "GET",
+                        "xPaddingBytes": "0-0",
+                        "xPaddingHeader": "",
+                        "xPaddingKey": "",
+                        "xPaddingMethod": "",
+                        "xPaddingObfsMode": false,
+                        "xPaddingPlacement": ""
+                    },
+                    "host": "static171.kdjdjssjwiqwr.ru",
+                    "mode": "packet-up",
+                    "path": "/livestreamcontent/"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 20"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fr-gt-01.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "b0951d03-a838-4953-9d25-f906fbc4232b"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "ece180c605b5453c",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 21"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "nuxde.jojack.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "de7e5d34-7c58-49a8-8440-05a8d4877cf7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+                    "serverName": "patents.su",
+                    "shortId": "428ef87fd47a3a32",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 22"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "tralalero.site",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "7a3a528f-2732-4292-8bd0-b1ad47fb513e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
+                    "serverName": "bitrix24.ru",
+                    "shortId": "4ffc99daad0f261f",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 23"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fi-m247-02.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "9c2aec33-963e-491e-94f7-d19d72ebf287"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "de8d3223e7d85761",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 24"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fi-m247-02.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "9c2aec33-963e-491e-94f7-d19d72ebf287"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "de8d3223e7d85761",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 25"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "tralalero.site",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "7a3a528f-2732-4292-8bd0-b1ad47fb513e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
+                    "serverName": "bitrix24.ru",
+                    "shortId": "4ffc99daad0f261f",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 26"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "pl-dp-01.online",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "3699cf3a-2cc3-462a-be38-51fff7c8fb8d"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "50e09046c0c00159",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 27"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "185.253.23.125",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "2abb9476-a1ed-4ca6-afa3-7eb04e824c0f"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1",
+                        "h2"
+                    ],
+                    "fingerprint": "firefox",
+                    "serverName": "cdn5.bypasshape.ru"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 28"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "nuxde.jojack.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "de7e5d34-7c58-49a8-8440-05a8d4877cf7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+                    "serverName": "patents.su",
+                    "shortId": "428ef87fd47a3a32",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 29"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "217.16.19.13",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "c7661851-1449-47de-b444-ecc508e8d0ac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "qq",
+                    "publicKey": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
+                    "serverName": "yandex.ru",
+                    "shortId": "ad7dab462a323acb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 30"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "cy.keepverify.net",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "c7661851-1449-47de-b444-ecc508e8d0ac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "buysec.ru"
+                },
+                "network": "grpc",
+                "realitySettings": {
+                    "fingerprint": "chrome",
+                    "publicKey": "J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk",
+                    "serverName": "cdn.kwork.com",
+                    "shortId": "10f786a2491b2cd5",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 31"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "ruall.archivebox.tools",
+                        "port": 971,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "c7661851-1449-47de-b444-ecc508e8d0ac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "qq",
+                    "publicKey": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
+                    "serverName": "platform-api.max.ru",
+                    "shortId": "ad7dab462a323acb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 32"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "217.16.16.1",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "c7661851-1449-47de-b444-ecc508e8d0ac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "qq",
+                    "publicKey": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
+                    "serverName": "ads.x5.ru",
+                    "shortId": "ad7dab462a323acb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 33"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "top2156289056.mwscdn.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "cef6ad99-5f1c-4f3c-b446-403dc1b6d577"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "serverName": "top2156289056.mwscdn.ru"
+                },
+                "xhttpSettings": {
+                    "host": "",
+                    "mode": "auto",
+                    "path": "/api/hel"
+                }
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 34"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "78.159.250.196",
+                        "port": 2053,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "cef6ad99-5f1c-4f3c-b446-403dc1b6d577"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "chrome",
+                    "publicKey": "6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4",
+                    "serverName": "max.ru",
+                    "shortId": "aabb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 35"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "78.159.250.196",
+                        "port": 20447,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "cef6ad99-5f1c-4f3c-b446-403dc1b6d577"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "chrome",
+                    "publicKey": "xBpyo1hUqSIC_DjeVuTDN1EqAsTnFNJPDgBoJZ79clw",
+                    "serverName": "max.ru",
+                    "shortId": "aabb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇪🇺 AUTO — Обход БС 36"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇪🇺 AUTO — Обход БС",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇪🇺 AUTO — Обход БС 1",
+                    "🇪🇺 AUTO — Обход БС 2",
+                    "🇪🇺 AUTO — Обход БС 3",
+                    "🇪🇺 AUTO — Обход БС 4",
+                    "🇪🇺 AUTO — Обход БС 5",
+                    "🇪🇺 AUTO — Обход БС 6",
+                    "🇪🇺 AUTO — Обход БС 7",
+                    "🇪🇺 AUTO — Обход БС 8",
+                    "🇪🇺 AUTO — Обход БС 9",
+                    "🇪🇺 AUTO — Обход БС 10",
+                    "🇪🇺 AUTO — Обход БС 11",
+                    "🇪🇺 AUTO — Обход БС 12",
+                    "🇪🇺 AUTO — Обход БС 13",
+                    "🇪🇺 AUTO — Обход БС 14",
+                    "🇪🇺 AUTO — Обход БС 15",
+                    "🇪🇺 AUTO — Обход БС 16",
+                    "🇪🇺 AUTO — Обход БС 17",
+                    "🇪🇺 AUTO — Обход БС 18",
+                    "🇪🇺 AUTO — Обход БС 19",
+                    "🇪🇺 AUTO — Обход БС 20",
+                    "🇪🇺 AUTO — Обход БС 21",
+                    "🇪🇺 AUTO — Обход БС 22",
+                    "🇪🇺 AUTO — Обход БС 23",
+                    "🇪🇺 AUTO — Обход БС 24",
+                    "🇪🇺 AUTO — Обход БС 25",
+                    "🇪🇺 AUTO — Обход БС 26",
+                    "🇪🇺 AUTO — Обход БС 27",
+                    "🇪🇺 AUTO — Обход БС 28",
+                    "🇪🇺 AUTO — Обход БС 29",
+                    "🇪🇺 AUTO — Обход БС 30",
+                    "🇪🇺 AUTO — Обход БС 31",
+                    "🇪🇺 AUTO — Обход БС 32",
+                    "🇪🇺 AUTO — Обход БС 33",
+                    "🇪🇺 AUTO — Обход БС 34",
+                    "🇪🇺 AUTO — Обход БС 35",
+                    "🇪🇺 AUTO — Обход БС 36"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s1.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s1.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s2.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s2.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s3.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 5"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s3.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 6"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s4.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "safari",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 7"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s4.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 8"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s5.whitelists-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.vhub.pro"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.vhub.pro"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 9"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s5.whitelists-avoro-cloudflare.ips-list.vhub.pro",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "fingerprint": "ios",
+                    "serverName": "cloudflare.blanesik.space"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "cloudflare.blanesik.space"
+                    },
+                    "path": "/sequre/ws?ed=2560"
+                }
+            },
+            "tag": "🇩🇪 Моб интернет 1 10"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇩🇪 Моб интернет 1",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇩🇪 Моб интернет 1 1",
+                    "🇩🇪 Моб интернет 1 2",
+                    "🇩🇪 Моб интернет 1 3",
+                    "🇩🇪 Моб интернет 1 4",
+                    "🇩🇪 Моб интернет 1 5",
+                    "🇩🇪 Моб интернет 1 6",
+                    "🇩🇪 Моб интернет 1 7",
+                    "🇩🇪 Моб интернет 1 8",
+                    "🇩🇪 Моб интернет 1 9",
+                    "🇩🇪 Моб интернет 1 10"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.72.103.3",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "ece5d20d-9e40-4bf9-b35d-b6bd2c9ea1b7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "serverName": "cdn.tracker.yandex.net"
+                },
+                "xhttpSettings": {
+                    "extra": {
+                        "noSSEHeader": false,
+                        "scMaxBufferedPosts": 30,
+                        "scMaxEachPostBytes": "1000000",
+                        "scStreamUpServerSecs": "20-80",
+                        "seqKey": "",
+                        "seqPlacement": "",
+                        "sessionKey": "",
+                        "sessionPlacement": "",
+                        "uplinkChunkSize": 0,
+                        "uplinkDataKey": "",
+                        "uplinkDataPlacement": "",
+                        "uplinkHTTPMethod": "GET",
+                        "xPaddingBytes": "0-0",
+                        "xPaddingHeader": "",
+                        "xPaddingKey": "",
+                        "xPaddingMethod": "",
+                        "xPaddingObfsMode": false,
+                        "xPaddingPlacement": ""
+                    },
+                    "host": "static171.kdjdjssjwiqwr.ru",
+                    "mode": "packet-up",
+                    "path": "/livestreamcontent/"
+                }
+            },
+            "tag": "🇫🇲 Моб интернет 2 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "nl01-cherry.online",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "ece5d20d-9e40-4bf9-b35d-b6bd2c9ea1b7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "0905b6e16602f326",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fr-gt-01.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "b0951d03-a838-4953-9d25-f906fbc4232b"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "ece180c605b5453c",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fr-gt-01.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "b0951d03-a838-4953-9d25-f906fbc4232b"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "ece180c605b5453c",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "pl-dp-01.online",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "1c4d05ef-8421-46a1-a6f3-e77f0ea45e41"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "50e09046c0c00159",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 5"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fi-m247-02.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "d9903876-7627-486b-813f-aeb6737725b4"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "6ecdb111a4e57f94",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 6"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.72.103.3",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "ece5d20d-9e40-4bf9-b35d-b6bd2c9ea1b7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "serverName": "cdn.tracker.yandex.net"
+                },
+                "xhttpSettings": {
+                    "extra": {
+                        "noSSEHeader": false,
+                        "scMaxBufferedPosts": 30,
+                        "scMaxEachPostBytes": "1000000",
+                        "scStreamUpServerSecs": "20-80",
+                        "seqKey": "",
+                        "seqPlacement": "",
+                        "sessionKey": "",
+                        "sessionPlacement": "",
+                        "uplinkChunkSize": 0,
+                        "uplinkDataKey": "",
+                        "uplinkDataPlacement": "",
+                        "uplinkHTTPMethod": "GET",
+                        "xPaddingBytes": "0-0",
+                        "xPaddingHeader": "",
+                        "xPaddingKey": "",
+                        "xPaddingMethod": "",
+                        "xPaddingObfsMode": false,
+                        "xPaddingPlacement": ""
+                    },
+                    "host": "static171.kdjdjssjwiqwr.ru",
+                    "mode": "packet-up",
+                    "path": "/livestreamcontent/"
+                }
+            },
+            "tag": "🇫🇲 Моб интернет 2 7"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fr-gt-01.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "b0951d03-a838-4953-9d25-f906fbc4232b"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "ece180c605b5453c",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 8"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "nuxde.jojack.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "de7e5d34-7c58-49a8-8440-05a8d4877cf7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+                    "serverName": "patents.su",
+                    "shortId": "428ef87fd47a3a32",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 9"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "tralalero.site",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "7a3a528f-2732-4292-8bd0-b1ad47fb513e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
+                    "serverName": "bitrix24.ru",
+                    "shortId": "4ffc99daad0f261f",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 10"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fi-m247-02.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "9c2aec33-963e-491e-94f7-d19d72ebf287"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "de8d3223e7d85761",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 11"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "fi-m247-02.com",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "9c2aec33-963e-491e-94f7-d19d72ebf287"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "de8d3223e7d85761",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 12"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "tralalero.site",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "7a3a528f-2732-4292-8bd0-b1ad47fb513e"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
+                    "serverName": "bitrix24.ru",
+                    "shortId": "4ffc99daad0f261f",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 13"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "pl-dp-01.online",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "3699cf3a-2cc3-462a-be38-51fff7c8fb8d"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8",
+                    "serverName": "storage.yandex.net",
+                    "shortId": "50e09046c0c00159",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 14"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "185.253.23.125",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "2abb9476-a1ed-4ca6-afa3-7eb04e824c0f"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "http/1.1",
+                        "h2"
+                    ],
+                    "fingerprint": "firefox",
+                    "serverName": "cdn5.bypasshape.ru"
+                }
+            },
+            "tag": "🇫🇲 Моб интернет 2 15"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "nuxde.jojack.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "de7e5d34-7c58-49a8-8440-05a8d4877cf7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "firefox",
+                    "publicKey": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+                    "serverName": "patents.su",
+                    "shortId": "428ef87fd47a3a32",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 16"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "217.16.19.13",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "c7661851-1449-47de-b444-ecc508e8d0ac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "qq",
+                    "publicKey": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
+                    "serverName": "yandex.ru",
+                    "shortId": "ad7dab462a323acb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 17"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "cy.keepverify.net",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "c7661851-1449-47de-b444-ecc508e8d0ac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "buysec.ru"
+                },
+                "network": "grpc",
+                "realitySettings": {
+                    "fingerprint": "chrome",
+                    "publicKey": "J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk",
+                    "serverName": "cdn.kwork.com",
+                    "shortId": "10f786a2491b2cd5",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 18"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "ruall.archivebox.tools",
+                        "port": 971,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "c7661851-1449-47de-b444-ecc508e8d0ac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "qq",
+                    "publicKey": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
+                    "serverName": "platform-api.max.ru",
+                    "shortId": "ad7dab462a323acb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 19"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "217.16.16.1",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "c7661851-1449-47de-b444-ecc508e8d0ac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "qq",
+                    "publicKey": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
+                    "serverName": "ads.x5.ru",
+                    "shortId": "ad7dab462a323acb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 20"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "top2156289056.mwscdn.ru",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "cef6ad99-5f1c-4f3c-b446-403dc1b6d577"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "serverName": "top2156289056.mwscdn.ru"
+                },
+                "xhttpSettings": {
+                    "host": "",
+                    "mode": "auto",
+                    "path": "/api/hel"
+                }
+            },
+            "tag": "🇫🇲 Моб интернет 2 21"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "78.159.250.196",
+                        "port": 2053,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "cef6ad99-5f1c-4f3c-b446-403dc1b6d577"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "chrome",
+                    "publicKey": "6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4",
+                    "serverName": "max.ru",
+                    "shortId": "aabb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 22"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "78.159.250.196",
+                        "port": 20447,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "cef6ad99-5f1c-4f3c-b446-403dc1b6d577"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "realitySettings": {
+                    "fingerprint": "chrome",
+                    "publicKey": "xBpyo1hUqSIC_DjeVuTDN1EqAsTnFNJPDgBoJZ79clw",
+                    "serverName": "max.ru",
+                    "shortId": "aabb",
+                    "spiderX": ""
+                },
+                "security": "reality"
+            },
+            "tag": "🇫🇲 Моб интернет 2 23"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇫🇲 Моб интернет 2",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇫🇲 Моб интернет 2 1",
+                    "🇫🇲 Моб интернет 2 2",
+                    "🇫🇲 Моб интернет 2 3",
+                    "🇫🇲 Моб интернет 2 4",
+                    "🇫🇲 Моб интернет 2 5",
+                    "🇫🇲 Моб интернет 2 6",
+                    "🇫🇲 Моб интернет 2 7",
+                    "🇫🇲 Моб интернет 2 8",
+                    "🇫🇲 Моб интернет 2 9",
+                    "🇫🇲 Моб интернет 2 10",
+                    "🇫🇲 Моб интернет 2 11",
+                    "🇫🇲 Моб интернет 2 12",
+                    "🇫🇲 Моб интернет 2 13",
+                    "🇫🇲 Моб интернет 2 14",
+                    "🇫🇲 Моб интернет 2 15",
+                    "🇫🇲 Моб интернет 2 16",
+                    "🇫🇲 Моб интернет 2 17",
+                    "🇫🇲 Моб интернет 2 18",
+                    "🇫🇲 Моб интернет 2 19",
+                    "🇫🇲 Моб интернет 2 20",
+                    "🇫🇲 Моб интернет 2 21",
+                    "🇫🇲 Моб интернет 2 22",
+                    "🇫🇲 Моб интернет 2 23"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+},
+{
+    "dns": {
+        "queryStrategy": "UseIPv4",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "5.188.114.44",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc/"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "95.85.246.16.speed-storage.ru"
+                }
+            },
+            "tag": "🇵🇱 Моб интернет 3 1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "84.201.166.160",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "15fc02f9-dadd-49fa-a259-baec0ee71339"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "grpcSettings": {
+                    "multiMode": false,
+                    "serviceName": "/sequre/grpc/"
+                },
+                "network": "grpc",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "alpn": [
+                        "h2"
+                    ],
+                    "fingerprint": "edge",
+                    "serverName": "95.85.246.14.speed-storage.ru"
+                }
+            },
+            "tag": "🇵🇱 Моб интернет 3 2"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇵🇱 Моб интернет 3",
+    "routing": {
+        "balancers": [
+            {
+                "selector": [
+                    "🇵🇱 Моб интернет 3 1",
+                    "🇵🇱 Моб интернет 3 2"
+                ],
+                "tag": "balancer"
+            }
+        ],
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "balancerTag": "balancer",
+                "inboundTag": [
+                    "socks"
+                ],
+                "port": "0-65535"
+            }
+        ]
+    }
+}
+]
