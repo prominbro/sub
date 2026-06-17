@@ -10599,6 +10599,6 @@
       }
     ]
   },
-  "remarks": "⚡ Авто WL RU"
+  "remarks": "⚡ Авто WL RU + 1 NL"
 }
 ]
