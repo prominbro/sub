@@ -1,4 +1,4 @@
-name: Push to GitVerse and GitHub
+name: Push to GitVerse, GitHub, MOS Hub and Codeberg
 on: [push]
 jobs:
   build:
@@ -7,24 +7,47 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      
+
+      # 1) GitVerse
       - name: Push to GitVerse
         run: |
           git remote add gitverse https://oauth2:${{ secrets.GITVERSE_TOKEN }}@gitverse.ru/kfwlru/sub.git
           git push -f gitverse main
-      
-      - name: Sync file to GitHub
+
+      # 2) GitHub -> sub
+      - name: Sync to GitHub (prominbro/kfwlsub)
         run: |
-          # Клонируем GitHub репозиторий
           git clone https://${{ secrets.VERCEL_TOKEN }}@github.com/prominbro/kfwlsub.git github_repo
-          
-          # Копируем файл 212.txt как sub
           cp 212.txt github_repo/sub
-          
-          # Коммитим и пушим
           cd github_repo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add sub
-          git commit -m "Update subs from 212.txt" || echo "No changes"
+          git commit -m "Update sub from 212.txt" || echo "No changes"
+          git push -f origin main
+
+      # 3) MOS Hub (GitLab) -> sub.txt
+      - name: Sync to MOS Hub (kfwl/sub)
+        run: |
+          git clone https://oauth2:${{ secrets.MOS_TOKEN }}@hub.mos.ru/kfwl/sub.git mos_repo
+          cd mos_repo
+          git checkout -B main
+          cp ../212.txt sub.txt
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add sub.txt
+          git commit -m "Update sub.txt from 212.txt" || echo "No changes"
+          git push -f origin main
+
+      # 4) Codeberg (Forgejo) -> sub.txt
+      - name: Sync to Codeberg (kfwl/sub)
+        run: |
+          git clone https://${{ secrets.CODE_TOKEN }}@codeberg.org/kfwl/sub.git code_repo
+          cd code_repo
+          git checkout -B main
+          cp ../212.txt sub.txt
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add sub.txt
+          git commit -m "Update sub.txt from 212.txt" || echo "No changes"
           git push -f origin main
