@@ -29996,5 +29996,2921 @@
     ]
   },
   "remarks": "🇸🇨 Whitelist"
-}
+},
+{
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "queryStrategy": "UseIPv4"
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      },
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      },
+      "tag": "socks"
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "sw.xanka.best",
+            "port": 2761,
+            "users": [
+              {
+                "id": "e9c8bfa3-4353-4e12-b827-2632b62dc720",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "sw.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "dceVfMGiO2_ER1FpViwO2enwKMXJXxVDmURu3NLN5zU",
+          "shortId": "57e7bb88",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "nl.xanka.best",
+            "port": 2761,
+            "users": [
+              {
+                "id": "aa1bb00a-af5a-4305-9864-557479793c13",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "nl.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "d9ncsYIjJIiCaqLszDyLhZoZ9-XMYYhBrlHUyuHFxQo",
+          "shortId": "a4e1fd84",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер #2"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "de.xanka.best",
+            "port": 2761,
+            "users": [
+              {
+                "id": "68a3fc83-900d-4924-81e7-74c2373f5327",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "de.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "6dkQkCIOH8gH4h6S7Rizg5IVHKb-jU4pS0s4OrVxEWI",
+          "shortId": "3dd59833",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер #3"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "lt.xanka.best",
+            "port": 8443,
+            "users": [
+              {
+                "id": "4102c06c-b58e-4376-981e-a864e688600f",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "lt.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "e2-jEFJ7ALVhZDM_93rJsi4pP9kFvhYJC2iTJ8gu7Es",
+          "shortId": "06cbfdd7",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер #4"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "pl2.xanka.best",
+            "port": 1337,
+            "users": [
+              {
+                "id": "d190a8bc-2f4f-4358-87ba-9642fca5e859",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "pl2.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "_17FNH4f3xX4pBRDXcYCA17-yPRtVzeiF9tO18appT0",
+          "shortId": "fb9dfa2f",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер #5"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "base23.xanka.best",
+            "port": 1337,
+            "users": [
+              {
+                "id": "77ddac96-ba7d-4ceb-a1d0-6a8416de898f",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "base23.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "qCSI1Pp9J7PXZYtm8gr9CfkPz-S6YI1zi8FRGWI3yhE",
+          "shortId": "667b3d4b",
+          "spiderX": ""
+        },
+        "grpcSettings": {
+          "serviceName": "apisub",
+          "multiMode": false
+        }
+      },
+      "tag": "🚀 Лучший сервер #6"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "pl3.xanka.best",
+            "port": 1337,
+            "users": [
+              {
+                "id": "66bfe9a1-bdd7-4236-a06f-3ec4165ae308",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "pl3.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "kFSmxew0fUw5i1t4h9GTE2OgExQvWNZrf25B83SiwCc",
+          "shortId": "ccfa2646",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер #7"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "ge2.xanka.best",
+            "port": 1337,
+            "users": [
+              {
+                "id": "f12c5f4e-2aec-4e07-a94a-0b6759d05dae",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "ge2.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "xFfL5fiJgHwVPavg3yommGbEzKYWDDvpCseqXB3GU0U",
+          "shortId": "368c44bb",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер #8"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "firez.xanka.best",
+            "port": 1337,
+            "users": [
+              {
+                "id": "690b43e7-be88-4cec-b4de-fde89330a602",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "firez.xanka.best",
+          "fingerprint": "firefox",
+          "publicKey": "WAf6HQ1ZTFHrDnSm32wnEbRmgjyETyCMw1yczrPbZRg",
+          "shortId": "12778dd1",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер #9"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "go.xanka.best",
+            "port": 1997,
+            "users": [
+              {
+                "id": "29b1f89f-042c-4012-a350-9247b7d17f0c",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "www.taobao.com",
+          "fingerprint": "firefox",
+          "publicKey": "UILnYEuiRfYYczqIO_GA6jAhqpav5U3mTFOgzFxB530",
+          "shortId": "285d85b3",
+          "spiderX": ""
+        }
+      },
+      "tag": "🚀 Лучший сервер #10"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "inboundTag": [
+          "socks"
+        ],
+        "port": "0-65535",
+        "balancerTag": "balancer"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "balancer",
+        "selector": [
+          "🚀 Лучший сервер",
+          "🚀 Лучший сервер #2",
+          "🚀 Лучший сервер #3",
+          "🚀 Лучший сервер #4",
+          "🚀 Лучший сервер #5",
+          "🚀 Лучший сервер #6",
+          "🚀 Лучший сервер #7",
+          "🚀 Лучший сервер #8",
+          "🚀 Лучший сервер #9",
+          "🚀 Лучший сервер #10"
+        ]
+      }
+    ]
+  },
+  "remarks": "🚀 Лучший сервер"
+},
+{
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "queryStrategy": "UseIPv4"
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      },
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      },
+      "tag": "socks"
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "sber.ru.xanka.best",
+            "port": 443,
+            "users": [
+              {
+                "id": "db94a855-cd94-42ca-bc6c-013c87a5066a",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "sber.ru.xanka.best",
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "alpn": [
+            "h2"
+          ]
+        },
+        "xhttpSettings": {
+          "path": "/",
+          "host": "",
+          "mode": ""
+        }
+      },
+      "tag": "🌐 Лучшая антиглушилка"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "anti.xanka.best",
+            "port": 443,
+            "users": [
+              {
+                "id": "db94a855-cd94-42ca-bc6c-013c87a5066a",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "anti.xanka.best",
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "alpn": [
+            "h2"
+          ]
+        },
+        "xhttpSettings": {
+          "path": "/",
+          "host": "",
+          "mode": ""
+        }
+      },
+      "tag": "🌐 Лучшая антиглушилка #2"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "mts.ru.xanka.best",
+            "port": 443,
+            "users": [
+              {
+                "id": "277f12ba-b696-485b-9fb2-02d9d91decb0",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "mts.ru.xanka.best",
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "alpn": [
+            "h2"
+          ]
+        },
+        "xhttpSettings": {
+          "path": "/",
+          "host": "",
+          "mode": ""
+        }
+      },
+      "tag": "🌐 Лучшая антиглушилка #3"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "inboundTag": [
+          "socks"
+        ],
+        "port": "0-65535",
+        "balancerTag": "balancer"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "balancer",
+        "selector": [
+          "🌐 Лучшая антиглушилка",
+          "🌐 Лучшая антиглушилка #2",
+          "🌐 Лучшая антиглушилка #3"
+        ]
+      }
+    ]
+  },
+  "remarks": "🌐 Лучшая антиглушилка"
+},
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "sw.xanka.best",
+              "port": 2761,
+              "users": [
+                {
+                  "id": "e9c8bfa3-4353-4e12-b827-2632b62dc720",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "sw.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "dceVfMGiO2_ER1FpViwO2enwKMXJXxVDmURu3NLN5zU",
+            "shortId": "57e7bb88",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇸🇪 Швеция [Стабильный]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇸🇪 Швеция [Стабильный]"
+        }
+      ]
+    },
+    "remarks": "🇸🇪 Швеция [Стабильный]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "nl.xanka.best",
+              "port": 2761,
+              "users": [
+                {
+                  "id": "aa1bb00a-af5a-4305-9864-557479793c13",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "nl.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "d9ncsYIjJIiCaqLszDyLhZoZ9-XMYYhBrlHUyuHFxQo",
+            "shortId": "a4e1fd84",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇳🇱 Нидерланды [Стабильный]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇳🇱 Нидерланды [Стабильный]"
+        }
+      ]
+    },
+    "remarks": "🇳🇱 Нидерланды [Стабильный]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "de.xanka.best",
+              "port": 2761,
+              "users": [
+                {
+                  "id": "68a3fc83-900d-4924-81e7-74c2373f5327",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "de.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "6dkQkCIOH8gH4h6S7Rizg5IVHKb-jU4pS0s4OrVxEWI",
+            "shortId": "3dd59833",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇩🇪 Германия [Стабильный]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇩🇪 Германия [Стабильный]"
+        }
+      ]
+    },
+    "remarks": "🇩🇪 Германия [Стабильный]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "lt.xanka.best",
+              "port": 8443,
+              "users": [
+                {
+                  "id": "4102c06c-b58e-4376-981e-a864e688600f",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "lt.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "e2-jEFJ7ALVhZDM_93rJsi4pP9kFvhYJC2iTJ8gu7Es",
+            "shortId": "06cbfdd7",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇱🇹 Литва [YT Без Рекламы]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇱🇹 Литва [YT Без Рекламы]"
+        }
+      ]
+    },
+    "remarks": "🇱🇹 Литва [YT Без Рекламы]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "pl2.xanka.best",
+              "port": 1337,
+              "users": [
+                {
+                  "id": "d190a8bc-2f4f-4358-87ba-9642fca5e859",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "pl2.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "_17FNH4f3xX4pBRDXcYCA17-yPRtVzeiF9tO18appT0",
+            "shortId": "fb9dfa2f",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇵🇱 Польша [Стабильный]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇵🇱 Польша [Стабильный]"
+        }
+      ]
+    },
+    "remarks": "🇵🇱 Польша [Стабильный]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "base23.xanka.best",
+              "port": 1337,
+              "users": [
+                {
+                  "id": "77ddac96-ba7d-4ceb-a1d0-6a8416de898f",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "base23.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "qCSI1Pp9J7PXZYtm8gr9CfkPz-S6YI1zi8FRGWI3yhE",
+            "shortId": "667b3d4b",
+            "spiderX": ""
+          },
+          "grpcSettings": {
+            "serviceName": "apisub",
+            "multiMode": false
+          }
+        },
+        "tag": "🇫🇮 Финляндия [Стабильный]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇫🇮 Финляндия [Стабильный]"
+        }
+      ]
+    },
+    "remarks": "🇫🇮 Финляндия [Стабильный]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "pl3.xanka.best",
+              "port": 1337,
+              "users": [
+                {
+                  "id": "66bfe9a1-bdd7-4236-a06f-3ec4165ae308",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "pl3.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "kFSmxew0fUw5i1t4h9GTE2OgExQvWNZrf25B83SiwCc",
+            "shortId": "ccfa2646",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇵🇱 Польша [Резерв]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇵🇱 Польша [Резерв]"
+        }
+      ]
+    },
+    "remarks": "🇵🇱 Польша [Резерв]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "ge2.xanka.best",
+              "port": 1337,
+              "users": [
+                {
+                  "id": "f12c5f4e-2aec-4e07-a94a-0b6759d05dae",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ge2.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "xFfL5fiJgHwVPavg3yommGbEzKYWDDvpCseqXB3GU0U",
+            "shortId": "368c44bb",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇩🇪 Германия [Резерв]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇩🇪 Германия [Резерв]"
+        }
+      ]
+    },
+    "remarks": "🇩🇪 Германия [Резерв]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "firez.xanka.best",
+              "port": 1337,
+              "users": [
+                {
+                  "id": "690b43e7-be88-4cec-b4de-fde89330a602",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "firez.xanka.best",
+            "fingerprint": "firefox",
+            "publicKey": "WAf6HQ1ZTFHrDnSm32wnEbRmgjyETyCMw1yczrPbZRg",
+            "shortId": "12778dd1",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇫🇮 Финляндия [Резерв]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇫🇮 Финляндия [Резерв]"
+        }
+      ]
+    },
+    "remarks": "🇫🇮 Финляндия [Резерв]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "go.xanka.best",
+              "port": 1997,
+              "users": [
+                {
+                  "id": "29b1f89f-042c-4012-a350-9247b7d17f0c",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "www.taobao.com",
+            "fingerprint": "firefox",
+            "publicKey": "UILnYEuiRfYYczqIO_GA6jAhqpav5U3mTFOgzFxB530",
+            "shortId": "285d85b3",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇭🇰 Гонконг [Стабильный]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇭🇰 Гонконг [Стабильный]"
+        }
+      ]
+    },
+    "remarks": "🇭🇰 Гонконг [Стабильный]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "sber.ru.xanka.best",
+              "port": 443,
+              "users": [
+                {
+                  "id": "db94a855-cd94-42ca-bc6c-013c87a5066a",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "sber.ru.xanka.best",
+            "allowInsecure": false,
+            "fingerprint": "firefox",
+            "alpn": [
+              "h2"
+            ]
+          },
+          "xhttpSettings": {
+            "path": "/",
+            "host": "",
+            "mode": ""
+          }
+        },
+        "tag": "🌐 Антиглушилка [1 Универсальная]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🌐 Антиглушилка [1 Универсальная]"
+        }
+      ]
+    },
+    "remarks": "🌐 Антиглушилка [1 Универсальная]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "anti.xanka.best",
+              "port": 443,
+              "users": [
+                {
+                  "id": "db94a855-cd94-42ca-bc6c-013c87a5066a",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "anti.xanka.best",
+            "allowInsecure": false,
+            "fingerprint": "firefox",
+            "alpn": [
+              "h2"
+            ]
+          },
+          "xhttpSettings": {
+            "path": "/",
+            "host": "",
+            "mode": ""
+          }
+        },
+        "tag": "🌐 Антиглушилка [2 Универсальная]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🌐 Антиглушилка [2 Универсальная]"
+        }
+      ]
+    },
+    "remarks": "🌐 Антиглушилка [2 Универсальная]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "mts.ru.xanka.best",
+              "port": 443,
+              "users": [
+                {
+                  "id": "277f12ba-b696-485b-9fb2-02d9d91decb0",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "mts.ru.xanka.best",
+            "allowInsecure": false,
+            "fingerprint": "firefox",
+            "alpn": [
+              "h2"
+            ]
+          },
+          "xhttpSettings": {
+            "path": "/",
+            "host": "",
+            "mode": ""
+          }
+        },
+        "tag": "🌐 Антиглушилка [3 Универсальная]"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🌐 Антиглушилка [3 Универсальная]"
+        }
+      ]
+    },
+    "remarks": "🌐 Антиглушилка [3 Универсальная]"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "account.netraidly.ru",
+              "port": 40443,
+              "users": [
+                {
+                  "id": "403c1990-0922-43e9-9027-03ef38c92c87",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "deepl.com",
+            "fingerprint": "qq",
+            "publicKey": "Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo",
+            "shortId": "5cc0",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇷🇺 Россия Без Рекламы"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇷🇺 Россия Без Рекламы"
+        }
+      ]
+    },
+    "remarks": "🇷🇺 Россия Без Рекламы"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "68.210.184.141",
+              "port": 444,
+              "users": [
+                {
+                  "id": "07ce63a0-7fc0-47e0-bf9d-4a10d31c0b1a",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "yahoo.com",
+            "fingerprint": "random",
+            "publicKey": "OKSZr7AAsHRtaGMJMpRUibQAXiQKGQ3NR4osIdi9p2Y",
+            "shortId": "41",
+            "spiderX": ""
+          },
+          "grpcSettings": {
+            "serviceName": "",
+            "multiMode": false
+          }
+        },
+        "tag": "🇦🇹 Австрия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇦🇹 Австрия"
+        }
+      ]
+    },
+    "remarks": "🇦🇹 Австрия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "95.133.242.210",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5982d32f-f2e4-4267-a8ad-48492e65344c",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "filesconvert.org",
+            "fingerprint": "firefox",
+            "publicKey": "U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs",
+            "shortId": "10debbdf94767541",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇬🇧 Англия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇬🇧 Англия"
+        }
+      ]
+    },
+    "remarks": "🇬🇧 Англия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "45.198.87.238",
+              "port": 8443,
+              "users": [
+                {
+                  "id": "360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "storage.yandex.net",
+            "fingerprint": "firefox",
+            "publicKey": "7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg",
+            "shortId": "2715592069f36fe7",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇭🇺 Венгрия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇭🇺 Венгрия"
+        }
+      ]
+    },
+    "remarks": "🇭🇺 Венгрия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "89.125.20.104",
+              "port": 443,
+              "users": [
+                {
+                  "id": "546d7622-cdf6-4d39-af34-9060c5720f57",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "auto.malina24.xyz",
+            "fingerprint": "qq",
+            "publicKey": "V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ",
+            "shortId": "abcd",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇩🇪 Германия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇩🇪 Германия"
+        }
+      ]
+    },
+    "remarks": "🇩🇪 Германия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "85.113.71.97",
+              "port": 8080,
+              "users": [
+                {
+                  "id": "d8a8fb02-a05b-4fa4-8f17-09ab74d63473",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "www.amazon.com",
+            "fingerprint": "firefox",
+            "publicKey": "gIZroPoitLL_o4L_u4krqQl_y5PcwlZDH3VogB789Fg",
+            "shortId": "",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇭🇰 Гонконг"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇭🇰 Гонконг"
+        }
+      ]
+    },
+    "remarks": "🇭🇰 Гонконг"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "62.192.174.168",
+              "port": 5635,
+              "users": [
+                {
+                  "id": "e13efb4a-6739-4018-9789-0597a1451bd0",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "bunny.net",
+            "fingerprint": "firefox",
+            "publicKey": "74GNMrWP02eGR9FP2hBA8nyjHoAKKAqBnz3qNFah2w4",
+            "shortId": "",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇱🇻 Латвия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇱🇻 Латвия"
+        }
+      ]
+    },
+    "remarks": "🇱🇻 Латвия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "103.112.69.145",
+              "port": 443,
+              "users": [
+                {
+                  "id": "40de6299-d792-4868-8a82-411ead0aa943",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "gateway.icloud.com",
+            "fingerprint": "firefox",
+            "publicKey": "L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww",
+            "shortId": "ed7b9bdfedb9b8e5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇳🇱 Нидерланды"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇳🇱 Нидерланды"
+        }
+      ]
+    },
+    "remarks": "🇳🇱 Нидерланды"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "pol-01.gni-daed.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "7c0f30a2-a7c1-43b1-bc51-20f07036a76e",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "pol-01.gni-daed.ru",
+            "fingerprint": "firefox",
+            "publicKey": "L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs",
+            "shortId": "a8399289e18af5f4",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇵🇱 Польша"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇵🇱 Польша"
+        }
+      ]
+    },
+    "remarks": "🇵🇱 Польша"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "149.33.31.115",
+              "port": 14302,
+              "users": [
+                {
+                  "id": "1dd5f2be-f124-4f35-9239-8abc042829c2",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "www.samsung.com",
+            "fingerprint": "firefox",
+            "publicKey": "lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc",
+            "shortId": "106f1604d65bb70c",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇷🇸 Сербия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇷🇸 Сербия"
+        }
+      ]
+    },
+    "remarks": "🇷🇸 Сербия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "186.246.19.214",
+              "port": 40443,
+              "users": [
+                {
+                  "id": "821100fa-b819-4614-83ee-996c4cb142cb",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "deepl.com",
+            "fingerprint": "firefox",
+            "publicKey": "_fG0m51dASh_sWJMJYtX4tqhaG-h-J8H-r-q2iyOwBg",
+            "shortId": "3597",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇺🇸 Соединенные Штаты"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇺🇸 Соединенные Штаты"
+        }
+      ]
+    },
+    "remarks": "🇺🇸 Соединенные Штаты"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "185.232.204.90",
+              "port": 443,
+              "users": [
+                {
+                  "id": "a34b5e88-cf0d-4c01-8199-2d1002d3c787",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "www.wikihow.com",
+            "fingerprint": "firefox",
+            "publicKey": "HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U",
+            "shortId": "",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇫🇮 Финляндия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇫🇮 Финляндия"
+        }
+      ]
+    },
+    "remarks": "🇫🇮 Финляндия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "130.49.190.94",
+              "port": 443,
+              "users": [
+                {
+                  "id": "967064b5-3272-431e-8dce-9519acfb94be",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "sw.zestful.bond",
+            "fingerprint": "firefox",
+            "publicKey": "KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo",
+            "shortId": "823257b7b9ab9d02",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇸🇪 Швеция"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇸🇪 Швеция"
+        }
+      ]
+    },
+    "remarks": "🇸🇪 Швеция"
+  }
 ]
