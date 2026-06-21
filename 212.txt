@@ -19894,5 +19894,1324 @@
         }
       ]
     }
-  }
+  },
+{
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "queryStrategy": "UseIPv4"
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      },
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      },
+      "tag": "socks"
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "de-1.viralforge.ru",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "de-1.viralforge.ru",
+          "fingerprint": "qq",
+          "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+          "shortId": "a1b2c3d4b5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇪🇺 🌎 Авто-выбор"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "de-2.viralforge.ru",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "de-2.viralforge.ru",
+          "fingerprint": "qq",
+          "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+          "shortId": "a1b2c3d4b5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇪🇺 🌎 Авто-выбор #2"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "nl-1.viralforge.ru",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "nl-1.viralforge.ru",
+          "fingerprint": "qq",
+          "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+          "shortId": "a1b2c3d4b5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇪🇺 🌎 Авто-выбор #3"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "nl-2.viralforge.ru",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "nl-2.viralforge.ru",
+          "fingerprint": "firefox",
+          "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+          "shortId": "a1b2c3d4b5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇪🇺 🌎 Авто-выбор #4"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "ee.viralforge.ru",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "ee.viralforge.ru",
+          "fingerprint": "qq",
+          "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+          "shortId": "a1b2c3d4b5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇪🇺 🌎 Авто-выбор #5"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "pl.viralforge.ru",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "pl.viralforge.ru",
+          "fingerprint": "qq",
+          "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+          "shortId": "a1b2c3d4b5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇪🇺 🌎 Авто-выбор #6"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "ch.viralforge.ru",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "ch.viralforge.ru",
+          "fingerprint": "qq",
+          "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+          "shortId": "a1b2c3d4b5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇪🇺 🌎 Авто-выбор #7"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "inboundTag": [
+          "socks"
+        ],
+        "port": "0-65535",
+        "balancerTag": "balancer"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "balancer",
+        "selector": [
+          "🇪🇺 🌎 Авто-выбор",
+          "🇪🇺 🌎 Авто-выбор #2",
+          "🇪🇺 🌎 Авто-выбор #3",
+          "🇪🇺 🌎 Авто-выбор #4",
+          "🇪🇺 🌎 Авто-выбор #5",
+          "🇪🇺 🌎 Авто-выбор #6",
+          "🇪🇺 🌎 Авто-выбор #7"
+        ]
+      }
+    ]
+  },
+  "remarks": "🇪🇺 🌎 Авто-выбор"
+},
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "de-1.viralforge.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "de-1.viralforge.ru",
+            "fingerprint": "qq",
+            "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+            "shortId": "a1b2c3d4b5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇩🇪 ⚡️ Германия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇩🇪 ⚡️ Германия"
+        }
+      ]
+    },
+    "remarks": "🇩🇪 ⚡️ Германия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "de-2.viralforge.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "de-2.viralforge.ru",
+            "fingerprint": "qq",
+            "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+            "shortId": "a1b2c3d4b5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇩🇪 ⚡️ Германия"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇩🇪 ⚡️ Германия"
+        }
+      ]
+    },
+    "remarks": "🇩🇪 ⚡️ Германия"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "nl-1.viralforge.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "nl-1.viralforge.ru",
+            "fingerprint": "qq",
+            "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+            "shortId": "a1b2c3d4b5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇳🇱 ⚡️ Нидерланды"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇳🇱 ⚡️ Нидерланды"
+        }
+      ]
+    },
+    "remarks": "🇳🇱 ⚡️ Нидерланды"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "nl-2.viralforge.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "nl-2.viralforge.ru",
+            "fingerprint": "firefox",
+            "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+            "shortId": "a1b2c3d4b5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇳🇱 ⚡️ Нидерланды"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇳🇱 ⚡️ Нидерланды"
+        }
+      ]
+    },
+    "remarks": "🇳🇱 ⚡️ Нидерланды"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "ee.viralforge.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ee.viralforge.ru",
+            "fingerprint": "qq",
+            "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+            "shortId": "a1b2c3d4b5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇪🇪 ⚡️ Эстония"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇪🇪 ⚡️ Эстония"
+        }
+      ]
+    },
+    "remarks": "🇪🇪 ⚡️ Эстония"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "pl.viralforge.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "pl.viralforge.ru",
+            "fingerprint": "qq",
+            "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+            "shortId": "a1b2c3d4b5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇵🇱 Польша"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇵🇱 Польша"
+        }
+      ]
+    },
+    "remarks": "🇵🇱 Польша"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "ch.viralforge.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ch.viralforge.ru",
+            "fingerprint": "qq",
+            "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+            "shortId": "a1b2c3d4b5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇨🇭 Швейцария"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇨🇭 Швейцария"
+        }
+      ]
+    },
+    "remarks": "🇨🇭 Швейцария"
+  },
+  {
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        },
+        "tag": "socks"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "usa.viralforge.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "usa.viralforge.ru",
+            "fingerprint": "qq",
+            "publicKey": "HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s",
+            "shortId": "a1b2c3d4b5",
+            "spiderX": ""
+          }
+        },
+        "tag": "🇺🇸 США"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "socks"
+          ],
+          "port": "0-65535",
+          "outboundTag": "🇺🇸 США"
+        }
+      ]
+    },
+    "remarks": "🇺🇸 США"
+  },
+{
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "queryStrategy": "UseIPv4"
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      },
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      },
+      "tag": "socks"
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.16.27.125",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "eh.vk.com",
+          "fingerprint": "chrome",
+          "publicKey": "AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU",
+          "shortId": "a1b2c3d4e5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇸🇴 🛡 Авто-обход"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.16.27.125",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "max.ru",
+          "fingerprint": "chrome",
+          "publicKey": "AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU",
+          "shortId": "a1b2c3d4e5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇸🇴 🛡 Авто-обход #2"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.16.27.125",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "io.ozone.ru",
+          "fingerprint": "chrome",
+          "publicKey": "AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU",
+          "shortId": "a1b2c3d4e5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇸🇴 🛡 Авто-обход #3"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.16.27.125",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "5post-gate.x5.ru",
+          "fingerprint": "chrome",
+          "publicKey": "AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU",
+          "shortId": "a1b2c3d4e5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇸🇴 🛡 Авто-обход #4"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.16.27.125",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "eh.vk.com",
+          "fingerprint": "chrome",
+          "publicKey": "AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU",
+          "shortId": "a1b2c3d4e5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇸🇴 Обход №1.0"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.16.27.125",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "max.ru",
+          "fingerprint": "chrome",
+          "publicKey": "AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU",
+          "shortId": "a1b2c3d4e5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇸🇴 Обход №1.1"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.16.27.125",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "io.ozone.ru",
+          "fingerprint": "chrome",
+          "publicKey": "AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU",
+          "shortId": "a1b2c3d4e5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇸🇴 Обход №1.2"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217.16.27.125",
+            "port": 443,
+            "users": [
+              {
+                "id": "5cb6f59e-cf69-4bc8-8d47-cc32e8f7f05b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "5post-gate.x5.ru",
+          "fingerprint": "chrome",
+          "publicKey": "AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU",
+          "shortId": "a1b2c3d4e5",
+          "spiderX": ""
+        }
+      },
+      "tag": "🇸🇴 Обход №1.3"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "inboundTag": [
+          "socks"
+        ],
+        "port": "0-65535",
+        "balancerTag": "balancer"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "balancer",
+        "selector": [
+          "🇸🇴 🛡 Авто-обход",
+          "🇸🇴 🛡 Авто-обход #2",
+          "🇸🇴 🛡 Авто-обход #3",
+          "🇸🇴 🛡 Авто-обход #4",
+          "🇸🇴 Обход №1.0",
+          "🇸🇴 Обход №1.1",
+          "🇸🇴 Обход №1.2",
+          "🇸🇴 Обход №1.3"
+        ]
+      }
+    ]
+  },
+  "remarks": "🇸🇴 🛡 Авто-обход"
+}
 ]
